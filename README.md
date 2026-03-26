@@ -1,1 +1,1 @@
-A currecy coverter app to convert currencu from usdt to pkr .
+A currecy coverter app to convert currency from usdt to pkr .
