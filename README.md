@@ -42,7 +42,7 @@ If you want to play around with the code:
 
 1.  **Clone the Repo:**
     ```bash
-    git clone [https://github.com/zestymec/currency-converter-React.git](https://github.com/zestymec/currency-converter-React.git)
+    git clone (https://github.com/zestymec/currency-converter-React.git)
     ```
 2.  **Install the "Engine" (Packages):**
     ```bash
